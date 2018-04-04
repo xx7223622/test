@@ -1,0 +1,7 @@
+﻿  source.cpp
+d:\vs2015project\stereo_matching\zncc\zncc\source.cpp(61): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\vs2015project\stereo_matching\zncc\zncc\source.cpp(62): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\vs2015project\stereo_matching\zncc\zncc\source.cpp(81): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\vs2015project\stereo_matching\zncc\zncc\source.cpp(86): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ZNCC.vcxproj -> D:\vs2015project\stereo_matching\ZNCC\x64\Debug\ZNCC.exe
+  ZNCC.vcxproj -> D:\vs2015project\stereo_matching\ZNCC\x64\Debug\ZNCC.pdb (Full PDB)
